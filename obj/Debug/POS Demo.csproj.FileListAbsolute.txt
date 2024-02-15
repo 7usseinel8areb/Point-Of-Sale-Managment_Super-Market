@@ -1,0 +1,41 @@
+C:\100DayChallenge\POS Demo\obj\Debug\POS Demo.csproj.AssemblyReference.cache
+C:\100DayChallenge\POS Demo\obj\Debug\POS_Demo.Forms.frm_Login.resources
+C:\100DayChallenge\POS Demo\obj\Debug\POS_Demo.Properties.Resources.resources
+C:\100DayChallenge\POS Demo\obj\Debug\POS Demo.csproj.GenerateResource.cache
+C:\100DayChallenge\POS Demo\obj\Debug\POS Demo.csproj.CoreCompileInputs.cache
+C:\100DayChallenge\POS Demo\bin\Debug\POS Demo.exe.config
+C:\100DayChallenge\POS Demo\bin\Debug\POS Demo.exe
+C:\100DayChallenge\POS Demo\bin\Debug\POS Demo.pdb
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Data.v23.2.dll
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Data.v23.2.xml
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\100DayChallenge\POS Demo\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\100DayChallenge\POS Demo\obj\Debug\POS Demo.csproj.CopyComplete
+C:\100DayChallenge\POS Demo\obj\Debug\POS Demo.exe
+C:\100DayChallenge\POS Demo\obj\Debug\POS Demo.pdb
+C:\100DayChallenge\POS Demo\obj\Debug\POS_Demo.Forms.Users.frm_SignUp.resources
+C:\100DayChallenge\POS Demo\bin\Debug\EntityFramework.dll
+C:\100DayChallenge\POS Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\100DayChallenge\POS Demo\bin\Debug\EntityFramework.xml
+C:\100DayChallenge\POS Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\100DayChallenge\POS Demo\obj\Debug\POS_Demo.frm_Main.resources
+C:\100DayChallenge\POS Demo\obj\Debug\POS_Demo.Forms.Products.frm_Product.resources
+C:\100DayChallenge\POS Demo\obj\Debug\POS_Demo.Forms.Products.frm_ProductList.resources
+C:\100DayChallenge\POS Demo\obj\Debug\POS_Demo.Forms.Customers.frm_Customers.resources
+C:\100DayChallenge\POS Demo\obj\Debug\POS_Demo.Forms.Suppliers.frm_Supplier.resources
+C:\100DayChallenge\POS Demo\obj\Debug\POS_Demo.Forms.SalesBill.frm_SallesBills.resources
+C:\100DayChallenge\POS Demo\obj\Debug\POS_Demo.Forms.frm_Welcome.resources
