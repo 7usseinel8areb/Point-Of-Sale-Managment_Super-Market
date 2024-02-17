@@ -10,6 +10,7 @@ This is a Desktop application for a Super Market 🛒
 - Entity Framework
 - WinForms
 - DevExpress
+- CRUD Operations
 
 ## How can use This application?
 It can be used by two users the Admin and the Cashier.
